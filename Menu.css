@@ -1,0 +1,21 @@
+#menu {
+    margin-bottom: 2rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+  }
+  
+  h3 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 0.5rem 0 0;
+  }
+  
